@@ -6,7 +6,7 @@ ATA
 ## Group Members:
 - Tia Shrikhande - tiaas2
 - Anvesha Saraf - anvesha4
-- Adya Daruka - adaruka2
+- Adya Daruka - adaruka20
 
 ## Project Introduction:
 We are building a smart trading bot using **Rust** to analyze market data and make data-driven financial decisions. The bot will leverage machine learning techniques, specifically reinforcement learning, to continuously improve its trading strategies. The system will autonomously predict market trends and execute buy, sell, or hold actions based on real-time market conditions.
